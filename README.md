@@ -2,7 +2,8 @@
 # Catenary
 
   > Just an assortment of shape and lattic generators made from Catenary Curves.
-![Catenary Shapes](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/pi.png?raw=true)
+![Catenary ShapesPi](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/pi.png?raw=true)
+![Catenary Shapes3](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/3Tests.png?raw=true)
 
 Sample code:
 >
