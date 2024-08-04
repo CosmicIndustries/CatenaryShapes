@@ -3,7 +3,7 @@
   > Just an assortment of shape and lattic generators made from Catenary Curves.
 
 Sample code:
-> `import numpy as np
+`import numpy as np
 import matplotlib.pyplot as plt
 from ipywidgets import interact, FloatSlider, IntSlider
 
