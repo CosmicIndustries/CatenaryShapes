@@ -1,7 +1,8 @@
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 # Catenary
 
   > Just an assortment of shape and lattic generators made from Catenary Curves.
-
+![Catenary Shapes](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/pi.png?raw=true)
 Sample code:
 import numpy as np
 import matplotlib.pyplot as plt
