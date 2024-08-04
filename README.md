@@ -5,7 +5,8 @@
 ![Catenary Shapes](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/pi.png?raw=true)
 
 Sample code:
-#import numpy as np
+>
+import numpy as np
 import matplotlib.pyplot as plt
 from ipywidgets import interact, FloatSlider, IntSlider
 
