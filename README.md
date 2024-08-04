@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![GitHub Logo](https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif)
 # Catenary
 
   > Just an assortment of shape and lattic generators made from Catenary Curves.
