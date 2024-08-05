@@ -32,4 +32,3 @@ interact(
 <!-- The image is a diagram of a hexagonal structure with catenary arches. The structure is made up of multiple interconnected lines that form a star-like shape. The lines are blue in color and are arranged in a way that they form a symmetrical pattern. The background is white, and there is text at the top of the image that reads "Hexagonal Structure with Catenary Arches". -->
 
 ![Catenary Shapes?](https://github.com/CosmicIndustries/CatenaryShapes/blob/main/image3d.png?raw=true)
-!<iframe src="https://app.briefer.cloud/workspaces/34da013c-4c51-4097-925a-86a775273325/documents/558b2640-e7ed-4937-8cb4-176aafb340c7" width="800" height="600" frameborder="0"></iframe>
